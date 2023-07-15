@@ -1,5 +1,5 @@
 # ALMABETTER_MOBILE_PRICE_RANGE_PREDICTION_CLASSIFICATION_PROJECT
-# Machine Learning Project - **Mobile Price Range Prediction - Classification**
+
 
 This repository contains the code and documentation for a machine learning project focused on predicting the price range of mobile phones. The mobile phone industry is highly competitive, and understanding the factors that influence the price range is crucial for market analysis and decision-making.
 
